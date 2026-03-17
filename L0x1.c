@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 int reconhecedor_0x1(char * s);
 int reconhecedor_0x1_rec(char * s, int n);
 
